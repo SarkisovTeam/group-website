@@ -1,13 +1,10 @@
 ---
 title: Lev Sarkisov
-weight: 10
+# weight: 10
 role: Principal Investigator
 bio: Lev Sarkisov is the professor and chair of the Deparment of Chemical Engineering at the University of Manchester, UK.
 interests: [material informatics, integral equations of liquids, molecular simulations, zeolites, metal-organic frameworks, machine learning, adsorptive separations, open-source softwares, process modeling, data science.]
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: lev.sarkisov@manchester.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/levsarkisov
@@ -25,8 +22,8 @@ organizations:
     url: "https://northwestern.edu" 
   - name: Univeristy of Masachusetts at Amherst
     url: "https://www.umass.edu"
-
-courses:
+education:
+  courses:
     - course: Postdoctoral fellow
       institution: Northwestern University
       year: 2004-2006
@@ -41,9 +38,15 @@ courses:
       year: 
 
 email: "lev.sarkisov@manchester.ac.uk"
+
 superuser: true
+
 user_groups:
   - Researchers
+
 highlight_name: false
 ---
-<!-- Arun Gopalan is a postdoctoral fellow in the Lev Sarkisov Research group at University of Manchester. -->
+# Description
+Lev Sarkisov is the Professor and Chair of the Department of Chemical Engineering at the Unversity of Manchester. 
+## Email
+lev.sarkisov@manchester.ac.uk

@@ -28,6 +28,7 @@ design:
   show_social: true
   show_courses: true
   show_organizations: false
+  show_email: true
 
 # authors:
 #   - admin
