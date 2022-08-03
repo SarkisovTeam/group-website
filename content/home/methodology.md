@@ -5,14 +5,14 @@ widget: blank
 widget_id: test-widget
 headless: true
 weight: 30
-title: null
-subtitle: null
+title: Methodology
+subtitle: Overview of our multiscale researhc methodology
 active: true
 design:
   columns: "1"
   background:
-    image: pacmof_graphical_abstract.jpg
-    image_darken: 0.3
+    image: 'coders.jpg'
+    # image_darken: 0.3
     image_parallax: false
     image_position: center
     image_size: cover

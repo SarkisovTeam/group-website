@@ -39,7 +39,7 @@ education:
 
 email: "lev.sarkisov@manchester.ac.uk"
 
-superuser: true
+superuser: false
 
 user_groups:
   - Researchers
