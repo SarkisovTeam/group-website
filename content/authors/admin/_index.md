@@ -42,7 +42,7 @@ email: "lev.sarkisov@manchester.ac.uk"
 superuser: false
 
 user_groups:
-  - Researchers
+  - Principal Investigators
 
 highlight_name: false
 ---

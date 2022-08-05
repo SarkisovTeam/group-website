@@ -28,7 +28,7 @@ content:
   coordinates:
     latitude: '53.46945772724238'
     longitude: '-2.23419998466068' 
-  directions: Enter Building 1 and take the stairs to Office ____ on Floor 4
+  directions: Enter Engineering Building A (MECD) and take the elevator to Core 3E on Floor 4
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
@@ -55,4 +55,4 @@ design:
   columns: '1'
 ---
 
- We are always looking for exceptional candidates and collaborators who can bring new dimensions to the team. The best way to reach out is  through email, also if you're already in the neighborhood, feel free to drop by. We're located at Floor 4 of Engineering Building A (MECD).
+ We are always looking for exceptional candidates and collaborators who can bring new dimensions to the team. The best way to reach out is  through email, also if you're already in the neighborhood, feel free to drop by. We're located at Core 3E, Floor 4 of Engineering Building A (MECD).
