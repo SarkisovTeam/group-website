@@ -3,20 +3,21 @@ title: Tianmu (Tim) Yuan
 role: Ph.D. Candidate
 # weight: 
 bio: My research gears towards discovering, analyzing and prediciting the properties of nanoporous materials towards employing them for energy efficient separations via adsorption.
-interests: [Advanced computing, molecular dynamics, adsorptive separations, statistical mechanics]
+interests: [Advanced Computing, Molecular Dynamics, Adsorptive Separations, Statistical Mechanics]
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/timo_oy
-  - icon: Linkedin
-    icon_pack: fab
-    link: https://uk.linkedin.com/in/tianmu-yuan
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=sqretggAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/tim-yuan
+  - icon: linkedin
+    icon_pack: fab
+    link: https://uk.linkedin.com/in/tianmu-yuan
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/timo_oy
+
 organizations:
   - name: University of Manchester
     url: "https://manchester.ac.uk"
@@ -29,7 +30,7 @@ education:
   courses:
     - course: Ph.D. in Chemical Engineering
       institution: The University of Manchester
-      year: 2020-Now
+      year: 2020-Present
     - course: MSc. in Advanced Chemical Engineering
       institution: Imperial College London
       year: 2016-2017
