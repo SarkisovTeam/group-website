@@ -15,7 +15,8 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: group_picture.jpg
+    #image: group_picture.jpg
+    image: group_picture_2022.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
