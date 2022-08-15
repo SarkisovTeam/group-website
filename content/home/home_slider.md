@@ -19,10 +19,11 @@ content:
       content: Here's an overview of our research...
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: irmof_field.png
+        fit: fill
     - title: Material Informatics 🧮   
       content: 'Deeper understanding of  nanoporous materials'
       align: right

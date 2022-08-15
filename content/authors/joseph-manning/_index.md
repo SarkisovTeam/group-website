@@ -36,7 +36,7 @@ education:
 
 email: "joseph.manning@manchester.ac.uk"
 
-superuser: true
+superuser: false
 
 user_groups:
   - Researchers

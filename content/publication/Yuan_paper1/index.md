@@ -4,7 +4,7 @@ authors:
   - Tianmu Yuan
   - Amir H. Farmahini
   - admin
-#author_notes:
+# author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 #date: '2015-09-01T00:00:00Z'

@@ -40,7 +40,7 @@ education:
 
 email: "arun.gopalan@manchester.ac.uk"
 
-superuser: true
+superuser: false
 
 user_groups:
   - Researchers

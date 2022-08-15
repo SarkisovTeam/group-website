@@ -2,7 +2,7 @@
 title: Tianmu (Tim) Yuan
 role: Ph.D. Candidate
 # weight: 
-bio: My research gears towards discovering, analyzing and prediciting the properties of nanoporous materials towards employing them for energy efficient separations via adsorption.
+bio: My work combines statistical mechanical theory and molecular simulations to study fluid transport phenomena across heterogeneous porous materials. 
 interests: [Advanced Computing, Molecular Dynamics, Adsorptive Separations, Statistical Mechanics]
 social:
   - icon: google-scholar
@@ -41,7 +41,7 @@ education:
 
 email: "tianmu.yuan@manchester.ac.uk"
 
-superuser: true
+superuser: false
 
 user_groups:
   - Grad Students
