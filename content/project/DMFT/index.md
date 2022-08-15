@@ -1,6 +1,5 @@
 ---
-title: Dynamic Mean Field Theory to Predict Transport Properties in Mixed-Matrix
-  Membranes
+title: Dynamic Mean Field Theory to Study Fluid Transport Mechanisms in Mixed Matrix Membranes
 date: 2022-07-25T21:41:10.789Z
 draft: false
 featured: false

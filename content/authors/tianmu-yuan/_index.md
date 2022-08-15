@@ -2,7 +2,8 @@
 title: Tianmu (Tim) Yuan
 role: Ph.D. Candidate
 # weight: 
-bio: My research gears towards discovering, analyzing and prediciting the properties of nanoporous materials towards employing them for energy efficient separations via adsorption.
+bio: Tim is a Ph.D. student at the Lev Sarkisov Rsearch Group at the University of Manchester. His work focuses on the fluid transport mechanisms in heterogeneous nanoporous materials such as mixed matrix membranes using statistical mechanical theories and molecular simulations. 
+#His research gears towards discovering, analyzing and prediciting the properties of nanoporous materials towards employing them for energy efficient separations via adsorption.
 interests: [Advanced Computing, Molecular Dynamics, Adsorptive Separations, Statistical Mechanics]
 social:
   - icon: google-scholar
@@ -52,6 +53,8 @@ highlight_name: true
 #   - ../arun
 ---
 # About me
-My work combines statistical mechanical theory and molecular simulations to study fluid transport phenomena across heterogeneous porous materials. 
+<!---My work combines statistical mechanical theory and molecular simulations to study fluid transport phenomena across heterogeneous porous materials. --->
+Tim is a Ph.D. student at the Lev Sarkisov Rsearch Group at the University of Manchester. His work focuses on the fluid transport mechanisms in heterogeneous nanoporous materials such as mixed matrix membranes using statistical mechanical theories and molecular simulations. 
+
 ## Email
 tianmu.yuan@manchester.ac.uk
