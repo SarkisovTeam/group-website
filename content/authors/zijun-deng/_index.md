@@ -22,3 +22,6 @@ highlight_name: true
 ---
 ## Email
 zijun.deng@postgrad.manchester.ac.uk
+
+# About Me
+Zijun Deng is a Ph.D. student in the Sarkisov group at University of Manchester. 
