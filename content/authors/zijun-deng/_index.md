@@ -2,7 +2,7 @@
 title: Zijun Deng
 role: Ph.D. student
 # weight: 
-bio: My work involves multi-scale modelling methods from the molecular level to the industrial process level, to explore adsorption processes in porous materials.
+bio: My work involves multi-scale modelling methods from the molecular level to the industrial process level.
 interests: [statistical mechanics, molecular simulations, process modeling, data driven machine learning]
 social:
   - icon: github
@@ -25,4 +25,4 @@ highlight_name: true
 zijun.deng@postgrad.manchester.ac.uk
 
 # About Me
-Zijun Deng is a Ph.D. student in the Sarkisov group at University of Manchester. 
+Zijun Deng is a Ph.D. student in Professor Sarkisov's group at the University of Manchester. He broadly works in multi-scale modelling, including Grand Canonical Monte Carlo simulations and process simulations, to explore adsorption processes in porous materials.
