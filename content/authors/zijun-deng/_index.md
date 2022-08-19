@@ -2,6 +2,7 @@
 title: Zijun Deng
 role: Ph.D. student
 # weight: 
+bio: My work involves multi-scale modelling methods from the molecular level to the industrial process level, to explore adsorption processes in porous materials.
 interests: [statistical mechanics, molecular simulations, process modeling, data driven machine learning]
 social:
   - icon: github
