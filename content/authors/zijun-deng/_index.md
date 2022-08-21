@@ -7,7 +7,7 @@ interests: [statistical mechanics, molecular simulations, process modeling, data
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/dengzijunwind1
+    link: https://github.com/Zijun-Deng
 organizations:
   - name: University of Manchester
     url: "https://manchester.ac.uk"
