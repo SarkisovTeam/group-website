@@ -19,7 +19,7 @@ publishDate: '2022-07-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-#publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Advanced Theory and Simulations*'
 #publication_short: ''
 
 abstract: This work offers a computationally efficient theoretical framework to investigate transport phenomena in complex systems such as mixed matrix membranes (MMMs). It is demonstrated here that a wide variety of heterogeneous, disordered geometries can be constructed using lattice models. These geometries combined with the dynamic mean field theory (DMFT) provide useful insights on the distribution of density and flux in the structures. From this work, the DMFT emerges as a theoretical playground to explore transport phenomena in MMMs under a variety of conditions and probe some of the assumptions involved in the commonly used macroscopic models. As a case study, a comparison of the predictions of the DMFT is considered with several classical macroscopic theories. In the preliminary observations, the study points to a much greater impact of the pore blocking effects on the overall transport of the composite system in comparison with the macroscopic models.
