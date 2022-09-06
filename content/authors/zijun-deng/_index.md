@@ -13,7 +13,7 @@ organizations:
 
 email: "zijun.deng@postgrad.manchester.ac.uk"
 
-superuser: true
+superuser: false
 
 user_groups:
   - Grad Students

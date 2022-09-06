@@ -1,5 +1,5 @@
 ---
-title: Screening complex adsorption phenomena using advanced Monte Carlo simulations
+title: Screening Complex Adsorption Phenomena Using Advanced Monte Carlo Simulations
 date: 2022-08-17
 draft: false
 featured: false
@@ -7,6 +7,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+authors: ["joseph-manning"]
 ---
 
 Screening adsorption behaviour of porous materials is highly valuable to select candidates for scale-up and direct novel materials discovery. 

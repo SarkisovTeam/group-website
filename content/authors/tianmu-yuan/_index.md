@@ -45,7 +45,7 @@ education:
 
 email: "tianmu.yuan@manchester.ac.uk"
 
-superuser: false
+superuser: true
 
 user_groups:
   - Grad Students

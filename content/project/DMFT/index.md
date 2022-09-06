@@ -5,10 +5,10 @@ draft: false
 featured: false
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 
-
+authors: ["tianmu-yuan"]
 
 ---
 Mixed matrix membranes (MMMs) are promising materials for membrane gas separations. The idea of an MMM is to combine excellent separation performance of a filler material (common choices include Metal Organic Frameworks, zeolites, and carbon nanotubes/nanosheets) with the good processability and stability of the continuous phase (which is often a polymer material). Although this idea is very appealing and elegant in principle, practical implementation of MMMs faces a number of challenges related to how the filler phase is distributed within the continuous phase, defects at the interfaces between the two phases and so on. On a fundamental level, the detailed fluid transport mechanisms in a heterogeneous material, such as MMM, remain to be elucidated, and this prevents the development of rational approaches to engineering better MMMs.   

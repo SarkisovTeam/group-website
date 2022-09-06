@@ -1,5 +1,5 @@
 ---
-title: Digitally reproducing MOF material synthesis conditions for quantitative comparison
+title: Digitally Reproducing MOF Material Synthesis Conditions For Quantitative Comparison
 date: 2022-08-17
 draft: false
 featured: false
@@ -7,6 +7,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+authors: ["joseph-manning"]
 ---
 
 Metal organic framework (MOF) materials represent an exciting new development in porous materials science, with myriad applications in fields as diverse as carbon capture, catalysis, and water harvesting. 
