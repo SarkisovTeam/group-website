@@ -20,7 +20,7 @@ publishDate: '2021-08-05T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-#publication: '*Journal of Source Themes, 1*(1)'
+publication: '*The Journal of Chemical Physics*'
 #publication_short: ''
 
 abstract: We explore the applicability of the lattice model and dynamic mean field theory as a computationally efficient tool to study transport across heterogeneous porous media, such as mixed matrix membranes. As a starting point and to establish some basic definitions of properties analogous to those in the off-lattice systems, we consider transport across simple models of porous materials represented by a slit pore in a chemical potential gradient. Using this simple model, we investigate the distribution of density and flux under steady state conditions, define the permeability across the system, and explore how this property depends on the length of the pore and the solid–fluid interactions. Among other effects, we observe that the flux in the system goes through a maximum as the solid–fluid interaction is varied from weak to strong. This effect is dominated by the behavior of the fluid near the walls and is also confirmed by off-lattice molecular dynamics simulations. We further extend this study to explore transport across heterogeneous slit pore channels composed of two solids with different values of solid–fluid interaction strengths. We demonstrate that the lattice models and dynamic mean field theory provide a useful framework to pose questions on the accuracy and applicability of the classical theories of transport across heterogeneous porous systems.
