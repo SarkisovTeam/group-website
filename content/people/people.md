@@ -30,8 +30,5 @@ design:
   show_organizations: false
   show_email: true
 
-# authors:
-#   - admin
-#   - arun
 ---
 A vibrant and welcoming group of researchers with a wide variety of skill sets and experience levels. Our philosophy of sharing and partnership ensures a positive environment conducive to the continued growth of both beginners and experienced researchers alike. 

@@ -16,64 +16,75 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the group
-      content: Here's an overview of our research...
+      content: Here's an overview of our research in adsorption...
       align: center
       background:
         position: center
+        size: cover
         color: '#666'
         brightness: 0.7
         media: irmof_field.png
         fit: fill
+        image_size: contain
     - title: Material Informatics 🧮   
-      content: 'Deeper understanding of  nanoporous materials'
-      align: right
+      content: 'Deeper understanding of nanoporous materials'
+      align: center
       background:
         position: center
-        color: '#555'
+        image_color: '#555'
         brightness: 0.7
-        media: mat_char_image2.png
+        media: mat_char_image.png
+        fit: stretch  
+        image_size: contain
       link:
         icon: graduation-cap
         icon_pack: fas  
-        text: Read more
+        text: Go to Projects
         url: ../project/matchar
     - title: Energy Efficient Separations ⛽  🧪
       content: 'Achieving difficult separations via adsorption'
-      align: right
+      align: center
       background:
         position: center
+        fit: stretch  
+        image_size: contain
         color: '#333'
         brightness: 0.5
         media: 2.png
+
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Read more
+        text: Go to Projects
         url: ../project/matsep
     - title: Models and Software 💻
       content: 'Efficient algorithms with open-source distribution'
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
         brightness: 0.5
         media: 12.png
+        fit: stretch  
+        image_size: contain
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Read more
-        url: ../project/DMFT
-    - title: Materials Optimization 🛠️
-      content: 'Fine-tuning nanoporous materials for specific applications'
-      align: right
+        text: Go to Projects
+        url: ../project/
+    - title: 🛠️Materials in High-throughput
+      content: 'Learning, screening and optimizing in large numbers'
+      align: center
       background:
         position: center
         color: '#333'
         brightness: 0.9
-        media: matopt4_1.png
+        media: matopt_7.png
+        fit: contain 
+        image_size: contain
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Read more
-        url: ../project/matgen
+        text: Go to Projects
+        url: ../project/        
 ---

@@ -1,4 +1,6 @@
 ---
+advanced:
+  css_class: fullscreen
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -13,16 +15,14 @@ title:
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
   background:
     image: contact_us1.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+  # spacing:
+  #   padding: ['0px', '0', '0px', '0']
 ---

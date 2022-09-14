@@ -5,7 +5,7 @@
 
 main:
   - name: Software
-    url: tour
+    url: software
     weight: 65
   - name: Projects
     url: project
