@@ -2,7 +2,7 @@
 title: Arun Gopalan
 role: Postdoctoral Research Associate
 # weight: 
-bio: My research gears towards discovering, analyzing and prediciting the properties of nanoporous materials towards employing them for energy efficient separations via adsorption.
+bio: My research focuses on discovering, analyzing and prediciting the properties of nanoporous materials towards employing them in energy efficient gas separations and storage via adsorption.
 interests: [material informatics, advanced computing, molecular simulations, metal-organic frameworks, machine learning, adsorptive separations]
 social:
   - icon: twitter
