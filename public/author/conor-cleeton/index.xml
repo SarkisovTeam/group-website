@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conor Cleeton | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/author/conor-cleeton/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/author/conor-cleeton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conor Cleeton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/author/conor-cleeton/avatar_hu22dbc50622788939b8e3020a593bce8d_62717_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Conor Cleeton</title>
+      <link>https://SarkisovTeam.github.io/group-website/author/conor-cleeton/</link>
+    </image>
+    
+    <item>
+      <title>Developing ANN Surrogate Models to Replace High-fidelity Pressure Swing Adsorption Process Simulations</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/psa/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/psa/</guid>
+      <description>&lt;p&gt;Pressure Swing Adsorption (PSA) processes are used extensively for many important gas separations. One of the advantages of PSA is routed in it&amp;rsquo;s cyclic nature: one can configure a variety of &amp;lsquo;cycles&amp;rsquo; with different sequences and steps to achieve the best separation performance using a given adsorbent material. Designing such cycles, however, can be rather complex due to the combined heat- and mass-transfer fronts that arise within the adsorption columns. As such, numerical simulation and optimisation are used extensively to search for the optimal process configuration and operating conditions. For a single operating condition, it is entirely possible that hundreds of cycles need to be simulated in order to reach the cyclic steady state. This means that optimising the process performance for large databases of adsorbents - which requires thousands of process evaluations per material - becomes computationally intractable. As the separation potential of an adsorbent can only be accurately assessed using detailed process simulation and optimisation, there is a substantial need to expedite these simulations for high-throughput applications. Recent efforts have turned towards machine learning. In one approach, an artificial neural network (ANN) model can be trained to predict the key performance indicators of a PSA process using the operating conditions and features of the adsorbent as the inputs. In this way, one can potentially predict the performance of any arbitrary adsorbent at a fraction of the computational cost (from thousands of CPU hours to a few CPU minutes). In our work, we leverage this idea to predict the performance of thousands of metal-organic frameworks with the objective of understanding uncertainties in multiscale high-throughput screening workflows, exploring adsorbent structure-property-process relationships, and much more!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2022_jchemeng/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2022_jchemeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competitive H2S–CO2 absorption in reactive aqueous methyldiethanolamine solution: Prediction with ePC-SAFT</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2020_jfluidphaseeq/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2020_jfluidphaseeq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

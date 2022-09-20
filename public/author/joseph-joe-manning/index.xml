@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph (Joe)  Manning | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/author/joseph-joe-manning/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/author/joseph-joe-manning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph (Joe)  Manning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/author/joseph-joe-manning/avatar_hub175f58039f63cba83a0793c189d37bf_1268756_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Joseph (Joe)  Manning</title>
+      <link>https://SarkisovTeam.github.io/group-website/author/joseph-joe-manning/</link>
+    </image>
+    
+    <item>
+      <title>Digitally Reproducing MOF Material Synthesis Conditions For Quantitative Comparison</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/synthesis-digitisation/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/synthesis-digitisation/</guid>
+      <description>&lt;p&gt;Metal organic framework (MOF) materials represent an exciting new development in porous materials science, with myriad applications in fields as diverse as carbon capture, catalysis, and water harvesting. 
+However, with tens of thousands of MOF syntheses identified, reproducing a reported framework or identifying the best synthesis route is a complex and often frustrating task. 
+Further, these syntheses are often reported as plain text, preventing quantitative comparison between different studies. 
+In this research theme, we are applying text mining and natural language processing tools to digitise MOF synthesis methods. Using this depth-first text mining framework, we aim to perform optimisation of synthesis methods solely from pre-existing published data, accelerating methodology development and hence implementation of MOF materials in larger-scale applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Screening Complex Adsorption Phenomena Using Advanced Monte Carlo Simulations</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/screening-complex/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/screening-complex/</guid>
+      <description>&lt;p&gt;Screening adsorption behaviour of porous materials is highly valuable to select candidates for scale-up and direct novel materials discovery. 
+However, current methods are limited to adsorption of either very small ro simple molecules, unable to describe complex adsorption phenomena like water capture or arene isomer separation. 
+We are developing methods to accelerate the estimation of adsorption properties for these complex material applications, enabling high-throughput screening for an ever-larger series of applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

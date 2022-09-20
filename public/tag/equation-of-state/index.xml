@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equation of State | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/tag/equation-of-state/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/tag/equation-of-state/index.xml" rel="self" type="application/rss+xml" />
+    <description>Equation of State</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/media/icon_huacd09ef35ffda7e4fc3fcc5952d0cc19_255650_512x512_fill_lanczos_center_3.png</url>
+      <title>Equation of State</title>
+      <link>https://SarkisovTeam.github.io/group-website/tag/equation-of-state/</link>
+    </image>
+    
+    <item>
+      <title>Competitive H2S–CO2 absorption in reactive aqueous methyldiethanolamine solution: Prediction with ePC-SAFT</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2020_jfluidphaseeq/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2020_jfluidphaseeq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

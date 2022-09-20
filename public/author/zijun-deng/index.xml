@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zijun Deng | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/author/zijun-deng/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/author/zijun-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zijun Deng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/author/zijun-deng/avatar_huba1a3f3d59784e3d7451449850ad9459_597407_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zijun Deng</title>
+      <link>https://SarkisovTeam.github.io/group-website/author/zijun-deng/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale Modelling Of Adsorption In Porous Materials</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/zeolite_zijun/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/zeolite_zijun/</guid>
+      <description>&lt;p&gt;This project will employ a broad range of multi-scale modelling methods, including Grand Canonical Monte Carlo simulations and process simulations, to explore adsorption processes in porous materials. The primary focus will be on the materials exhibiting unusual or advanced effects, such as cation-exchanged zeolites, metal-organic frameworks with open metal sites and flexible metal-organic materials. Using these materials and simulations, the project will identify opportunities for advanced, energy efficient separations of gases and liquids in the chemical engineering industry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

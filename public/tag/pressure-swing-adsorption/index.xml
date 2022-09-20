@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pressure Swing Adsorption | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/tag/pressure-swing-adsorption/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/tag/pressure-swing-adsorption/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pressure Swing Adsorption</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/media/icon_huacd09ef35ffda7e4fc3fcc5952d0cc19_255650_512x512_fill_lanczos_center_3.png</url>
+      <title>Pressure Swing Adsorption</title>
+      <link>https://SarkisovTeam.github.io/group-website/tag/pressure-swing-adsorption/</link>
+    </image>
+    
+    <item>
+      <title>Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2022_jchemeng/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/cleeton_etal_2022_jchemeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance-Based Screening of Porous Materials for Carbon Capture</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2021_chemcalreviews/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2021_chemcalreviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring new sources of efficiency in process-driven materials screening for post-combustion carbon capture</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2020_ees/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2020_ees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Crystal to Adsorption Column: Challenges in Multiscale Computational Screening of Materials for Adsorption Separation Processes</title>
+      <link>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2018_iec/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/publication/farmahini_etal_2018_iec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

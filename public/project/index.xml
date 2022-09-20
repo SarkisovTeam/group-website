@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/project/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/media/icon_huacd09ef35ffda7e4fc3fcc5952d0cc19_255650_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/</link>
+    </image>
+    
+    <item>
+      <title>Digitally Reproducing MOF Material Synthesis Conditions For Quantitative Comparison</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/synthesis-digitisation/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/synthesis-digitisation/</guid>
+      <description>&lt;p&gt;Metal organic framework (MOF) materials represent an exciting new development in porous materials science, with myriad applications in fields as diverse as carbon capture, catalysis, and water harvesting. 
+However, with tens of thousands of MOF syntheses identified, reproducing a reported framework or identifying the best synthesis route is a complex and often frustrating task. 
+Further, these syntheses are often reported as plain text, preventing quantitative comparison between different studies. 
+In this research theme, we are applying text mining and natural language processing tools to digitise MOF synthesis methods. Using this depth-first text mining framework, we aim to perform optimisation of synthesis methods solely from pre-existing published data, accelerating methodology development and hence implementation of MOF materials in larger-scale applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Screening Complex Adsorption Phenomena Using Advanced Monte Carlo Simulations</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/screening-complex/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/screening-complex/</guid>
+      <description>&lt;p&gt;Screening adsorption behaviour of porous materials is highly valuable to select candidates for scale-up and direct novel materials discovery. 
+However, current methods are limited to adsorption of either very small ro simple molecules, unable to describe complex adsorption phenomena like water capture or arene isomer separation. 
+We are developing methods to accelerate the estimation of adsorption properties for these complex material applications, enabling high-throughput screening for an ever-larger series of applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Mean Field Theory to Study Fluid Transport Mechanisms in Mixed Matrix Membranes</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/dmft/</link>
+      <pubDate>Mon, 25 Jul 2022 21:41:10 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/dmft/</guid>
+      <description>&lt;p&gt;Mixed matrix membranes (MMMs) are promising materials for membrane gas separations. The idea of an MMM is to combine excellent separation performance of a filler material (common choices include Metal Organic Frameworks, zeolites, and carbon nanotubes/nanosheets) with the good processability and stability of the continuous phase (which is often a polymer material). Although this idea is very appealing and elegant in principle, practical implementation of MMMs faces a number of challenges related to how the filler phase is distributed within the continuous phase, defects at the interfaces between the two phases and so on. On a fundamental level, the detailed fluid transport mechanisms in a heterogeneous material, such as MMM, remain to be elucidated, and this prevents the development of rational approaches to engineering better MMMs.&lt;br&gt;
+The dynamic mean field theory (DMFT) is a statistical mechanical theory. This method provide qualitatively accurate results comparing with atomistic simulations while taking 2-3 orders of magnitude less computational power. The DMFT also preserves the physical transport process making it a suitable tool for studying the fluid transport phenomena in heterogeneous materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Featurization of MOF Pores for Characterization, Visualization, and Materials Exploration</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/matchar/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/matchar/</guid>
+      <description>&lt;p&gt;Most of the state-of-the-art approaches to computational materials discovery of MOFs via machine learning (ML), can be summarized in terms of three key components. A way to sample the phase space of MOFs (databases, material generators etc.), a way to make predictions (a regression model, a data lookup table etc.), and a way to select/optimize materials to maximize the desired property(s) (gradient descent, genetic algorithms, Bayes optimization etc.). How we represent materials plays a key-role in all these steps. In adsorption, the shape, size, and connectivity of the cavities often play a bigger role than the chemistry of the individual structural building blocks (SBUs) that make up the MOF. Arriving at numerical features that capture the 3D confining environment of a nanoporous materials remains a challenging task till date. We develop novel workflows and code, using molecular simulations, advanced framework exploration, image processing and cheminformatics, to provide foundations that can help make the most of existing descriptors, such as pore size distributions, energy histograms, surface areas etc. This is relatively new and ongoing project for us, so please stay tuned for upcoming publications and codes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing ANN Surrogate Models to Replace High-fidelity Pressure Swing Adsorption Process Simulations</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/psa/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/psa/</guid>
+      <description>&lt;p&gt;Pressure Swing Adsorption (PSA) processes are used extensively for many important gas separations. One of the advantages of PSA is routed in it&amp;rsquo;s cyclic nature: one can configure a variety of &amp;lsquo;cycles&amp;rsquo; with different sequences and steps to achieve the best separation performance using a given adsorbent material. Designing such cycles, however, can be rather complex due to the combined heat- and mass-transfer fronts that arise within the adsorption columns. As such, numerical simulation and optimisation are used extensively to search for the optimal process configuration and operating conditions. For a single operating condition, it is entirely possible that hundreds of cycles need to be simulated in order to reach the cyclic steady state. This means that optimising the process performance for large databases of adsorbents - which requires thousands of process evaluations per material - becomes computationally intractable. As the separation potential of an adsorbent can only be accurately assessed using detailed process simulation and optimisation, there is a substantial need to expedite these simulations for high-throughput applications. Recent efforts have turned towards machine learning. In one approach, an artificial neural network (ANN) model can be trained to predict the key performance indicators of a PSA process using the operating conditions and features of the adsorbent as the inputs. In this way, one can potentially predict the performance of any arbitrary adsorbent at a fraction of the computational cost (from thousands of CPU hours to a few CPU minutes). In our work, we leverage this idea to predict the performance of thousands of metal-organic frameworks with the objective of understanding uncertainties in multiscale high-throughput screening workflows, exploring adsorbent structure-property-process relationships, and much more!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiscale Modelling Of Adsorption In Porous Materials</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/zeolite_zijun/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/zeolite_zijun/</guid>
+      <description>&lt;p&gt;This project will employ a broad range of multi-scale modelling methods, including Grand Canonical Monte Carlo simulations and process simulations, to explore adsorption processes in porous materials. The primary focus will be on the materials exhibiting unusual or advanced effects, such as cation-exchanged zeolites, metal-organic frameworks with open metal sites and flexible metal-organic materials. Using these materials and simulations, the project will identify opportunities for advanced, energy efficient separations of gases and liquids in the chemical engineering industry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

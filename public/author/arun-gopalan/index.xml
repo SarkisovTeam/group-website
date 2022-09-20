@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Gopalan | Sarkisov Research Group</title>
+    <link>https://SarkisovTeam.github.io/group-website/author/arun-gopalan/</link>
+      <atom:link href="https://SarkisovTeam.github.io/group-website/author/arun-gopalan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Gopalan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SarkisovTeam.github.io/group-website/author/arun-gopalan/avatar_hub7ac15d9b11319943f20f2e56578a0cf_2415530_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Arun Gopalan</title>
+      <link>https://SarkisovTeam.github.io/group-website/author/arun-gopalan/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Featurization of MOF Pores for Characterization, Visualization, and Materials Exploration</title>
+      <link>https://SarkisovTeam.github.io/group-website/project/matchar/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://SarkisovTeam.github.io/group-website/project/matchar/</guid>
+      <description>&lt;p&gt;Most of the state-of-the-art approaches to computational materials discovery of MOFs via machine learning (ML), can be summarized in terms of three key components. A way to sample the phase space of MOFs (databases, material generators etc.), a way to make predictions (a regression model, a data lookup table etc.), and a way to select/optimize materials to maximize the desired property(s) (gradient descent, genetic algorithms, Bayes optimization etc.). How we represent materials plays a key-role in all these steps. In adsorption, the shape, size, and connectivity of the cavities often play a bigger role than the chemistry of the individual structural building blocks (SBUs) that make up the MOF. Arriving at numerical features that capture the 3D confining environment of a nanoporous materials remains a challenging task till date. We develop novel workflows and code, using molecular simulations, advanced framework exploration, image processing and cheminformatics, to provide foundations that can help make the most of existing descriptors, such as pore size distributions, energy histograms, surface areas etc. This is relatively new and ongoing project for us, so please stay tuned for upcoming publications and codes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

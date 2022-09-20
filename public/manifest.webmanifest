@@ -1,0 +1,18 @@
+{
+  "name": "Sarkisov Research Group",
+  "short_name": "Sarkisov Research Group",
+  "lang": "en-us",
+  "theme_color": "#bbdefb",
+  "background_color": "#bbdefb",
+  "icons": [{
+    "src": "/group-website/media/icon_huacd09ef35ffda7e4fc3fcc5952d0cc19_255650_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/group-website/media/icon_huacd09ef35ffda7e4fc3fcc5952d0cc19_255650_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
