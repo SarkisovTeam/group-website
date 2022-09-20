@@ -26,6 +26,21 @@ content:
         media: irmof_field.png
         fit: fill
         image_size: contain
+    - title: 🛠️ Mulitscale Workflows for Materials Screening
+      content: 'Computational characterization, molecular simulations and process modelling'
+      align: center
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.9
+        media: matopt_7.png
+        fit: contain 
+        image_size: contain
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Go to Projects
+        url: ../project/        
     - title: Material Informatics 🧮   
       content: 'Deeper understanding of nanoporous materials'
       align: center
@@ -40,7 +55,7 @@ content:
         icon: graduation-cap
         icon_pack: fas  
         text: Go to Projects
-        url: ../project/matchar
+        url: ../project/
     - title: Energy Efficient Separations ⛽  🧪
       content: 'Achieving difficult separations via adsorption'
       align: center
@@ -51,12 +66,11 @@ content:
         color: '#333'
         brightness: 0.5
         media: 2.png
-
       link:
         icon: graduation-cap
         icon_pack: fas
         text: Go to Projects
-        url: ../project/matsep
+        url: ../project/
     - title: Models and Software 💻
       content: 'Efficient algorithms with open-source distribution'
       align: center
@@ -70,21 +84,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Go to Projects
+        text: go to projects
         url: ../project/
-    - title: 🛠️Materials in High-throughput
-      content: 'Learning, screening and optimizing in large numbers'
-      align: center
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.9
-        media: matopt_7.png
-        fit: contain 
-        image_size: contain
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Go to Projects
-        url: ../project/        
 ---
