@@ -22,20 +22,18 @@ content:
         position: center
         size: cover
         color: '#666'
-        brightness: 0.7
-        media: irmof_field.png
-        fit: fill
-        image_size: contain
-    - title: 🛠️ Mulitscale Workflows for Materials Screening
+        brightness: 0.35
+        media: 8.png
+        fit: contain
+    - title: 🛠️ Multiscale Workflows for Materials Screening
       content: 'Computational characterization, molecular simulations and process modelling'
       align: center
       background:
         position: center
         color: '#333'
-        brightness: 0.9
-        media: matopt_7.png
-        fit: contain 
-        image_size: contain
+        brightness: 0.35 
+        media: matopt3.png
+        fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas
@@ -47,10 +45,9 @@ content:
       background:
         position: center
         image_color: '#555'
-        brightness: 0.7
-        media: mat_char_image.png
-        fit: stretch  
-        image_size: contain
+        brightness: 0.35
+        media: 4.png
+        fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas  
@@ -61,11 +58,10 @@ content:
       align: center
       background:
         position: center
-        fit: stretch  
-        image_size: contain
         color: '#333'
-        brightness: 0.5
-        media: 2.png
+        brightness: 0.3
+        media: 1.png 
+        fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas
@@ -79,11 +75,10 @@ content:
         color: '#333'
         brightness: 0.5
         media: 12.png
-        fit: stretch  
-        image_size: contain
+        fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: go to projects
+        text: Go to projects
         url: ../project/
 ---
