@@ -59,7 +59,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.3
+        brightness: 0.25
         media: 1.png 
         fit: contain
       link:
@@ -73,7 +73,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.35
         media: 12.png
         fit: contain
       link:
