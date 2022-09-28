@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Here's an overview of our research in adsorption...
+    - title: Welcome to our group
+      content: Overview of the research themes
       align: center
       background:
         position: center

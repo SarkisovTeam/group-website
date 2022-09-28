@@ -14,7 +14,7 @@ featured: true
 design:
   columns: "1"
   background:
-    image: 'methodology.png'
+    image: 'thebi.png'
   #   image_darken: 0}
     image_parallax: false
     image_height: auto
