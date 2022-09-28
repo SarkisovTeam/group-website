@@ -21,8 +21,8 @@ user_groups:
 
 highlight_name: true
 ---
-## Email
-zijun.deng@postgrad.manchester.ac.uk
-
 # About Me
 Zijun Deng is a Ph.D. student in Professor Sarkisov's group at the University of Manchester. He broadly works in multi-scale modelling, including Grand Canonical Monte Carlo simulations and process simulations, to explore adsorption processes in porous materials.
+
+## Email
+zijun.deng@postgrad.manchester.ac.uk
