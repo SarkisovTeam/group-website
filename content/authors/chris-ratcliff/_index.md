@@ -1,6 +1,6 @@
 ---
 title: Christopher (Chris) Ratcliff
-role: Postgraduate Researcher
+role: Ph.D. Student
 # weight: 
 bio: My research currently focuses on synthesis of MOFs, with the aim to understand the effect solvents have on their structure at different length scales.
 interests: [material informatics, advanced computing, molecular simulations, metal-organic frameworks, machine learning]
