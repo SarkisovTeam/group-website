@@ -10,7 +10,7 @@ authors: ["admin"]
 
 <!--more-->
 
-I moved to Manchester in January 2020, starting here as the new Head of Department of Chemical Engineering. On the 17th of March, 2022, we had to shut down all the labs and leave the buildings due to the onset of the COVID pandemic. What followed was quite a challenging time for the academic groups and the universities at large. 
+I moved to Manchester in January 2020, starting here as the new Head of Department of Chemical Engineering. On the 17th of March, 2020, we had to shut down all the labs and leave the buildings due to the onset of the COVID pandemic. What followed was quite a challenging time for the academic groups and the universities at large. 
 Now, two years later, my research group has relocated to the new building (https://www.mecd.manchester.ac.uk), new group members will be joining us throughout the year and we have plenty of exciting and challenging ideas to work on.
 
 To explain the research vision of the group, let me propose the following imaginary scenario. A chemist envisages a new porous material (let say a MOF, because it is a hot topic at the moment). This material has been already synthesized in the lab, or it can be simply contemplated on a piece of paper. What is this material good for? Sensing? Some adsorption separation processes? Is it flexible? Is it stable with respect to water? Is there a cheap way to synthesize it in industrial quantities?
