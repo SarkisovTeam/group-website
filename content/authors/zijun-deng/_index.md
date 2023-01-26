@@ -5,6 +5,9 @@ role: Ph.D. student
 bio: My work involves multi-scale modelling methods from the molecular level to the industrial process level.
 interests: [statistical mechanics, molecular simulations, process modeling, data driven machine learning]
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=cbA-HRcAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
     link: https://github.com/Zijun-Deng
