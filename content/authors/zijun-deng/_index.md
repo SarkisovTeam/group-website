@@ -2,7 +2,7 @@
 title: Zijun Deng
 role: Ph.D. student
 # weight: 
-bio: My work involves multi-scale modelling methods from the molecular level to the industrial process level.
+bio: My work involves multi-scale modelling methods in energy efficient gas separations and storage via adsorption.
 interests: [statistical mechanics, molecular simulations, process modeling, data driven machine learning]
 social:
   - icon: google-scholar
