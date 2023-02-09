@@ -1,5 +1,5 @@
 ---
-title:  Multiscale Modelling Of Adsorption In Porous Materials
+title:  Multiscale Modelling of Adsorption In Porous Materials
 date: 2022-07-17
 draft: false
 featured: true
