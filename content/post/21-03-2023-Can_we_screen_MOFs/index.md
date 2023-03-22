@@ -10,9 +10,9 @@ authors: ["conor-cleeton"]
 
 <!--more-->
 
-To avoid the most severe impacts of climate change, we need to deploy carbon capture and sequestration (CCS) technologies on a scale that matches human industrial activity's emissions. However, the differences in scale, composition, and technical requirements between various emission sectors require technologies that can be optimised for various applications. Cyclical adsorption processes offer a significant advantage because they can be tailored for specific CO<sub>2</sub> capture sources by optimising the adsorption cycle and adsorbent properties.  
+To reach "net zero", humanity <i>must act now</i> to reduce the levels of CO<sub>2</sub> in the atmosphere. Carbon capture and sequestration (CCS) technologies are needed to achieve this, but the challenge lies in the additional energy and financial costs associated with the process. <i>Adsorption</i> separations are energy-efficient alternatives to traditional <i>absorption</i> using amine-based solutions, but their efficiencies rely on the characteristics of the material used as an adsorbent. Recently, several families of porous materials such as ZIFs, COFs, and MOFs, have been discovered, and research efforts have been focused on identifying new materials with superior characteristics for adsorption-based CCS applications. 
 
-The questions is, <i>can we find the best adsorbent for carbon capture?</i> Amongst the existing pool of porous materials, this endeavour is akin to finding a needle in a haystack. Yet, the demand for CCS has prompted many research groups to pose, and attempt to answer, this exact question. Quite often the focus of these studies is the subclass of porous materials known as metal organic frameworks (MOFs). These materials are constructed from organic linkers and inorganic metal node complexes in a lego-like fashion (see figure below).
+The questions is, <i>for a given CO<i>2</i> emission sector, can we find the best adsorbent?</i> Amongst the existing pool of porous materials, this endeavour is akin to finding a needle in a haystack. Yet, the demand for CCS has prompted many research groups to pose, and attempt to answer, this exact question. Quite often the focus of these studies is the subclass of porous materials known as MOFs, a.k.a., metal organic frameworks. These materials are constructed from organic linkers and inorganic metal node complexes in a lego-like fashion (Fig.1).
 
 <figure>
   <img src="MOF_example.png" alt="Hypothetical MOFs from real MOF building blocks" style="width:100%">
@@ -20,8 +20,14 @@ The questions is, <i>can we find the best adsorbent for carbon capture?</i> Amon
 </figure>
 
 
-
- Currently, over 100,000 experimentally synthesised MOFs have been reported in the Cambridge Structural Database. However, by virtue of their modular nature, the number of possible MOF structures, chemistries, and therefore properties, are virtually infinite. We therefore use high throughput computational screening (HTCS) as a tool to sift through these structures and identify the most promising MOFs for carbon capture applications. This approach requires three things, primarily:  
+ Currently, over 100,000 experimentally synthesised MOFs have been reported in the Cambridge Structural Database. However, by virtue of their modular nature, the number of possible MOF structures, chemistries, and therefore properties, are virtually infinite. We therefore use high throughput computational screening (HTCS) as a tool to sift through these structures and identify the most promising MOFs for various applications. Concurrent developments in both molecular simulations and advanced process simulations led to the following idea: <i> what if the screening of porous materials for dynamic adsorption processes can be implemented using realistic process simulations while the microscale properties of materials are provided by molecular simulations?</i> This multiscale screening protocol is schematically depicted in Figure 2 a multiscale screening protocol that provides a more realistic approach to material selection.
+ 
+ <figure>
+  <img src="multiscale_HTCS.png" alt="high throughput computational screening workflow" style="width:100%">
+  <figcaption>Fig.2 - Multiscale workflow concepts in vacuum swing adsorption (VSA) and pressure swing adsorption (PSA) engineering. The starting point of the workflow is the structure of the porous material (either experimental or hypothetical, on the left). Molecular simulations are used to obtain equilibrium adsorption and kinetics data. Process simulations are performed for various cycle configurations. Finally, on the right, performance ofthe material is assessed in terms of energy (E)−productivity (Pr) trade-offs, with the red arrow in the graph indicating progression of this assessment toward the Pareto front (dashed red line). Image source: Farmahini et al., <i>Chem. Rev.</i>, (2021), <b>121</b>, 17</figcaption>
+</figure>
+ 
+  This approach requires three things, primarily:  
 <ol>
   <li><i>Database of MOF candidates to evaluate</i></li>
   <li><i>Property data which describes the material in cyclical adsorption processes</i></li>
