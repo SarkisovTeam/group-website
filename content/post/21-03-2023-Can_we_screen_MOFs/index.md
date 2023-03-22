@@ -16,17 +16,17 @@ The questions is, <i>can we find the best adsorbent for carbon capture?</i> Amon
 
 <figure>
   <img src="MOF_example.png" alt="Hypothetical MOFs from real MOF building blocks" style="width:100%">
-  <figcaption>Fig.1 - Real MOFs can be deconstructed into their constituent building blocks using digital reticular chemistry, and these building blocks can be used to generate new MOF structures with different functional properties. Source: Wilmer et al., <i>Nat. Chem.</i>, (2012), <b>4</>, 2</figcaption>
+  <figcaption>Fig.1 - Real MOFs can be deconstructed into their constituent building blocks using digital reticular chemistry, and these building blocks can be used to generate new MOF structures with different functional properties. Source: Wilmer et al., <i>Nat. Chem.</i>, (2012), <b>4</b>, 2</figcaption>
 </figure>
 
 
 
  Currently, over 100,000 experimentally synthesised MOFs have been reported in the Cambridge Structural Database. However, by virtue of their modular nature, the number of possible MOF structures, chemistries, and therefore properties, are virtually infinite. We therefore use high throughput computational screening (HTCS) as a tool to sift through these structures and identify the most promising MOFs for carbon capture applications. This approach requires three things, primarily:  
 <ol>
-  <li>Database of MOF candidates to evaluate</li>
-  <li>Property data which describes the material in cyclical adsorption processes</li>
-  <li>A numerical model which simulates the cyclical adsorption process</li>
+  <li><i>Database of MOF candidates to evaluate</i></li>
+  <li><i>Property data which describes the material in cyclical adsorption processes</i></li>
+  <li><i>A numerical model which simulates the cyclical adsorption process</i></li>
 </ol>
  
- 
+
 
