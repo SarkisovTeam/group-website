@@ -14,7 +14,19 @@ To avoid the most severe impacts of climate change, we need to deploy carbon cap
 
 The questions is, <i>can we find the best adsorbent for carbon capture?</i> Amongst the existing pool of porous materials, this endeavour is akin to finding a needle in a haystack. Yet, the demand for CCS has prompted many research groups to pose, and attempt to answer, this exact question. Quite often the focus of these studies is the subclass of porous materials known as metal organic frameworks (MOFs). These materials are constructed from organic linkers and inorganic metal node complexes in a lego-like fashion (see figure below).
 
-<img src="MOF_example.png" alt="Hypothetical MOFs from real MOF building blocks" width="600" height="700">
+<figure>
+  <img src="MOF_example.png" alt="Hypothetical MOFs from real MOF building blocks" style="width:100%">
+  <figcaption>Fig.1 - Real MOFs can be deconstructed into their constituent building blocks using digital reticular chemistry, and these building blocks can be used to generate new MOF structures with different functional properties. Source: Wilmer et al., <i>Nat. Chem.</i>, (2012), <b>4</>, 2</figcaption>
+</figure>
 
- Currently, over 100,000 experimentally synthesised MOFs have been reported in the Cambridge Structural Database. However, by virtue of their modular nature, the number of possible MOF structures, chemistries, and therefore properties, are virtually infinite. We therefore use high throughput computational screening (HTCS) as a tool to sift through these structures and identify the most promising MOFs for carbon capture applications.
+
+
+ Currently, over 100,000 experimentally synthesised MOFs have been reported in the Cambridge Structural Database. However, by virtue of their modular nature, the number of possible MOF structures, chemistries, and therefore properties, are virtually infinite. We therefore use high throughput computational screening (HTCS) as a tool to sift through these structures and identify the most promising MOFs for carbon capture applications. This approach requires three things, primarily:  
+<ol>
+  <li>Database of MOF candidates to evaluate</li>
+  <li>Property data which describes the material in cyclical adsorption processes</li>
+  <li>A numerical model which simulates the cyclical adsorption process</li>
+</ol>
+ 
+ 
 
