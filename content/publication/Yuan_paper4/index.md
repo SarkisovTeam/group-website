@@ -22,7 +22,7 @@ publication_types: ['3']
 publication: '*ChemRxiv*'
 #publication_short: ''
 
-
+abstract: Mixed matrix membranes (MMMs), incorporating graphene and graphene oxide structural fragments, have emerged as promising materials for challenging gas separation processes. What remains unclear is the actual molecular mechanism responsible for the enhanced permeability and perm- selectivity of these materials. With the fully atomistic models still unable to handle the required time and length scales, here we employ a simple qualitative model based on the lattice representa- tion of the physical system and Dynamic Mean Field theory. We demonstrate that the performance enhancement results from the flux-regularization impact of the 2D nanoflakes, and that this effect sensitively depends on the orientation of the nanoflakes and the properties of the interface between the nanoflakes and the polymer.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
