@@ -11,7 +11,7 @@ interests: [Advanced Computing, Molecular Dynamics, Adsorptive Separations, Stat
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=sqretggAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=60cTA3cAAAAJ&hl=en&inst=8574086807289546695&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/tim-yuan
